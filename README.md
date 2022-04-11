@@ -16,7 +16,7 @@ We also value your privacy so we do not ask for *any* personal information such 
 - Figma
 
 ## Getting Started with MoneyPal
-1. Visit the link to MoneyPal here.
+1. Visit the link to MoneyPal here https://pensive-goodall-ea0925.netlify.app/.
 2. Gather the necessary info such as,
     - Income
     - Expenses
